@@ -1,0 +1,20 @@
+1.difference between document and window objects in javascript:
+
+  DOCUMENT:
+      The document object is a property of the window object.
+      The document object represents the HTML document loaded in that window.
+      SYNTAX:
+          document.property_name;
+      PROPERTIES:
+          console: It returns a reference to the console object which provides access to the browser’s debugging console.
+
+
+
+
+  WINDOW OBJECTS:
+      The window object represents the browser window.	
+      The window object has many useful properties like the location object and the setTimeout function.
+      SYNTAX:
+           window.property_name;
+      PROPERTIES:
+           close(): It is used to close the output stream.
